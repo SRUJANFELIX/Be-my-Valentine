@@ -1,0 +1,67 @@
+💖 Be My Valentine 💌
+
+A cute and interactive "Be My Valentine" webpage designed to make Valentine's Day special! 💕
+
+🌟 Live Demo
+
+🔗 Click here to view the Be My Valentine page
+
+https://srujanfelix.github.io/Be-my-Valentine/
+
+📌 Features
+
+Romantic and engaging UI ❤️
+
+Cute animations and effects ✨
+
+Simple yet interactive experience 💬
+
+Lightweight and smooth performance 🚀
+
+
+🛠️ Technologies Used
+
+HTML - Page structure
+
+CSS - Styling and animations
+
+JavaScript - Interactive elements
+
+
+📌 How to Use
+
+1. Open the Live Demo
+
+
+2. Enjoy the interactive Valentine’s experience!
+
+
+3. Share it with your special someone 💕
+
+
+
+📂 Project Structure
+
+/Be-my-Valentine
+│── index.html      # Main HTML file  
+│── style.css       # Styling and animations  
+│── script.js       # JavaScript for interactivity  
+└── README.md       # Project documentation
+
+🚀 How to Run Locally
+
+1. Clone this repository:
+
+git clone https://github.com/SrujanFelix/Be-my-Valentine.git
+
+
+2. Open the index.html file in a browser
+
+
+3. Enjoy the Valentine’s surprise! 💖
+
+
+
+📜 License
+
+This project is open-source and free to use.
